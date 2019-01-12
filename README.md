@@ -1,2 +1,3 @@
-# Tableau_Project
-NYC subway research
+
+The ultimate goal of the analysis is to find out whether the number of passengers on the New York subway is higher on rainy days than on rainy days. Python (NumPy, Pandas, ggplot) and Tableau were used for analysis and visualization,respectively.
+To visualize the number of rainy and not rainy days, I chose a histogram, as it allows you to easily compare the distribution of data. The second visualization was created using a spreadsheet. I chose this form, as it allows you to show daily median records per unit of measurement. The days when it rained were blue, and the rain was not yellow. Anyone who looks at the chart can easily navigate it.
